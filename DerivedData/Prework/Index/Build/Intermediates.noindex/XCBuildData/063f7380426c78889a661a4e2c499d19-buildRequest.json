@@ -1,0 +1,66 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "d034ea1ba74cae6bc5cdc365381848831e860e9f05bb66c58e6d71179dc5ae5f"
+    },
+    {
+      "guid" : "d034ea1ba74cae6bc5cdc36538184883d97394372704fd624e9c9e7c4a18fec6"
+    },
+    {
+      "guid" : "d034ea1ba74cae6bc5cdc365381848830fc37a8e198c50084451aa8ebdaf46f3"
+    }
+  ],
+  "containerPath" : "/Users/1ssem0/Documents/CodePath iOS W21/Prework/Prework.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64h",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64h"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/1ssem0/Documents/CodePath iOS W21/Prework/DerivedData/Prework/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/1ssem0/Documents/CodePath iOS W21/Prework/DerivedData/Prework/Index/Build/Products",
+      "derivedDataPath" : "/Users/1ssem0/Documents/CodePath iOS W21/Prework/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/1ssem0/Documents/CodePath iOS W21/Prework/DerivedData/Prework/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/1ssem0/Documents/CodePath iOS W21/Prework/DerivedData/Prework/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/1ssem0/Documents/CodePath iOS W21/Prework/DerivedData/Prework/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/1ssem0/Documents/CodePath iOS W21/Prework/DerivedData/Prework/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

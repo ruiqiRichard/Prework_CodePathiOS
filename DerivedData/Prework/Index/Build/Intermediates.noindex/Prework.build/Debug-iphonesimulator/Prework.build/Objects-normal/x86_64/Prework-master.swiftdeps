@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "8c4cc6af5aa52971e01f674ffd838d93ae7f5fc1782ce61508382f6e0020383f"
+build_start_time: [1644014468, 104715824]
+build_end_time: [1644014472, 949185848]
+inputs:
+  "/Users/1ssem0/Documents/CodePath iOS W21/Prework/Prework/AppDelegate.swift": [1644014460, 444309234]
+  "/Users/1ssem0/Documents/CodePath iOS W21/Prework/Prework/SceneDelegate.swift": [1644014460, 465130329]
+  "/Users/1ssem0/Documents/CodePath iOS W21/Prework/Prework/ViewController.swift": [1644014460, 467771530]
