@@ -5,6 +5,143 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>27EEF8AB-2F8F-499B-80C8-AB17C83ADBC0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>27EEF8AB-2F8F-499B-80C8-AB17C83ADBC0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Prework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Prework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Prework</string>
+			<key>timeStartedRecording</key>
+			<real>665743221.73245299</real>
+			<key>timeStoppedRecording</key>
+			<real>665743222.11068797</real>
+			<key>title</key>
+			<string>Build Prework</string>
+			<key>uniqueIdentifier</key>
+			<string>27EEF8AB-2F8F-499B-80C8-AB17C83ADBC0</string>
+		</dict>
+		<key>C74FBD7C-D06A-4FAE-858D-138FF6001C14</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C74FBD7C-D06A-4FAE-858D-138FF6001C14.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Prework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Prework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Prework</string>
+			<key>timeStartedRecording</key>
+			<real>665742968.485273</real>
+			<key>timeStoppedRecording</key>
+			<real>665742978.22477198</real>
+			<key>title</key>
+			<string>Build Prework</string>
+			<key>uniqueIdentifier</key>
+			<string>C74FBD7C-D06A-4FAE-858D-138FF6001C14</string>
+		</dict>
+		<key>D21F9381-C3EB-436C-849B-36EA82264E14</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D21F9381-C3EB-436C-849B-36EA82264E14.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Prework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Prework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Prework</string>
+			<key>timeStartedRecording</key>
+			<real>665743245.73015404</real>
+			<key>timeStoppedRecording</key>
+			<real>665743246.09655595</real>
+			<key>title</key>
+			<string>Build Prework</string>
+			<key>uniqueIdentifier</key>
+			<string>D21F9381-C3EB-436C-849B-36EA82264E14</string>
+		</dict>
+		<key>E9E9A0B7-C6E2-4454-928A-21BA21503131</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E9E9A0B7-C6E2-4454-928A-21BA21503131.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Prework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Prework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Prework</string>
+			<key>timeStartedRecording</key>
+			<real>665743160.29623604</real>
+			<key>timeStoppedRecording</key>
+			<real>665743168.01445401</real>
+			<key>title</key>
+			<string>Build Prework</string>
+			<key>uniqueIdentifier</key>
+			<string>E9E9A0B7-C6E2-4454-928A-21BA21503131</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
