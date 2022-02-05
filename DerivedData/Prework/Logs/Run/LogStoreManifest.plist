@@ -5,6 +5,143 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>1BFAABAC-D0D6-4B7B-B996-C30A7DBBFF4C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1BFAABAC-D0D6-4B7B-B996-C30A7DBBFF4C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Prework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Prework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Prework</string>
+			<key>timeStartedRecording</key>
+			<real>665743168.02646399</real>
+			<key>timeStoppedRecording</key>
+			<real>665743182.66936696</real>
+			<key>title</key>
+			<string>Run Prework</string>
+			<key>uniqueIdentifier</key>
+			<string>1BFAABAC-D0D6-4B7B-B996-C30A7DBBFF4C</string>
+		</dict>
+		<key>4B2CD3D1-4CAA-4878-9A33-9151F5B087D6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4B2CD3D1-4CAA-4878-9A33-9151F5B087D6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Prework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Prework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Prework</string>
+			<key>timeStartedRecording</key>
+			<real>665742978.24187005</real>
+			<key>timeStoppedRecording</key>
+			<real>665743042.94628894</real>
+			<key>title</key>
+			<string>Run Prework</string>
+			<key>uniqueIdentifier</key>
+			<string>4B2CD3D1-4CAA-4878-9A33-9151F5B087D6</string>
+		</dict>
+		<key>67B7D428-8E03-483B-B4B4-289D3157399F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>67B7D428-8E03-483B-B4B4-289D3157399F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Prework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Prework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Prework</string>
+			<key>timeStartedRecording</key>
+			<real>665743246.09984899</real>
+			<key>timeStoppedRecording</key>
+			<real>665743257.94849801</real>
+			<key>title</key>
+			<string>Run Prework</string>
+			<key>uniqueIdentifier</key>
+			<string>67B7D428-8E03-483B-B4B4-289D3157399F</string>
+		</dict>
+		<key>AE435167-FF43-45A3-A47A-62C45023212C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AE435167-FF43-45A3-A47A-62C45023212C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Prework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Prework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Prework</string>
+			<key>timeStartedRecording</key>
+			<real>665743222.11309004</real>
+			<key>timeStoppedRecording</key>
+			<real>665743233.71039903</real>
+			<key>title</key>
+			<string>Run Prework</string>
+			<key>uniqueIdentifier</key>
+			<string>AE435167-FF43-45A3-A47A-62C45023212C</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
